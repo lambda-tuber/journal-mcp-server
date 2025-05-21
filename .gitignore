@@ -1,0 +1,7 @@
+.vscode
+**/dist-newstyle
+**/dist-newstyle/**
+**/*~
+**/logs/**
+00_data/04_journal-db/*
+00_data/journal_entry.csv

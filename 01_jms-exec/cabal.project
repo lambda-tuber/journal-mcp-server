@@ -1,0 +1,10 @@
+packages:
+  ./
+  ../11_jms-ui-request
+  ../12_jms-ui-response
+  ../21_jms-infra
+  ../31_jms-app
+  ../41_jms-domain-service
+  ../51_jms-domain-model
+ 
+

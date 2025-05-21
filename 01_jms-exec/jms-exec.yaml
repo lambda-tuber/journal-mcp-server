@@ -1,0 +1,5 @@
+logDir : "/work/haskell/journal-mcp-server/01_jms-exec/logs"
+logLevel : "Debug"
+scriptsDir : "/home/work/haskell/journal-mcp-server/00_data/03_tools"
+workDir : "/home/work/haskell/journal-mcp-server/00_data"
+
